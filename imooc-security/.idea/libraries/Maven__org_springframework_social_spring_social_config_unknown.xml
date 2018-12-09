@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.social:spring-social-config:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/social/spring-social-config/unknown/spring-social-config-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/social/spring-social-config/unknown/spring-social-config-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/social/spring-social-config/unknown/spring-social-config-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
